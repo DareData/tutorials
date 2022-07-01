@@ -16,7 +16,7 @@ Anything having to do with ETLs.
 
 Skill | Summary | Link |
 --- | --- | --- | 
-Several | Material from DataTalks Free Data Engineering course| [link](https://github.com/DataTalksClub/data-engineering-zoomcamp) | 
+Several | Materials from DataTalks Free Data Engineering course| [link](https://github.com/DataTalksClub/data-engineering-zoomcamp) | 
 
 ## Infrastructure and CI/CD
 
