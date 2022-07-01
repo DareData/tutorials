@@ -12,7 +12,7 @@ Several | Lisbon Data Science Academy Github | [link](https://github.com/LDSSA) 
 ## Data Engineering
 Skill | Summary | Link |
 --- | --- | --- | 
-
+Several | Material from DataTalks Free Data Engineering course| [link](https://github.com/DataTalksClub/data-engineering-zoomcamp) | 
 
 ## Infrastructure and CI/CD
 Skill | Summary | Link |
