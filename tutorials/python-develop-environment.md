@@ -102,7 +102,7 @@ Keep in mind some guidelines when coding:
 
 Once again with the dinner party analogy previously made, this is how your project should be organized following these guidelines:
 
-<div align="center"><img src="/uploads/97e874f8e9454fb1b32f1f515888c942/Screen_Shot_2020-10-22_at_11.20.14_AM.png" width="40%"></div>
+![Environment Tree](./media/python_dev_env_tree.png)
 
 - Remember to always have the current directory on your PYTHONPATH environment variable (it is necessary for this to work).
 - 80 character line limit (technically part of linting, but it is worth emphasizing).
@@ -118,25 +118,25 @@ As mentioned, it is important to keep the code organization. Linting is the auto
 
 After creating the environment of your project inside, you just have to go to **Terminal** at the bottom part of the IDE and install the package with pip with `pip install pycodestyle`.
 
-<div align="center"><img src="/uploads/68ea5f2a48016e216c19a1e7a0f50d15/1.png" width="80%"></div>
+![Vs code Linting Problems](./media/python_dev_env_pycharm_1.png)
 
 In case the code has any problems, the package will have a similar suggestion as below.
 
-<div align="center"><img src="/uploads/5170ceb31c56777047cf7cf475779f01/2.png" width="40%"></div>
+![Vs code Linting Problems](./media/python_dev_env_pycharm_2.png)
 
 ##### VSCode
 
 To add this package to VSCode, you can go to **Command + Shift + P** and find **Python: Select Linter**.
 
-<div align="center"><img src="/uploads/b6c2e64103aaab4cb3404f56ae60040a/1.png" width="80%"></div>
+![Vs code Linting Problems](./media/python_dev_env_vscode_1.png)
 
 Then choose **pycodestyle**. The installation option will pop-up at the bottom.
 
-<div align="center"><img src="/uploads/68b38289d226accf630081e4733354ca/2.png" width="60%"></div>
+![Vs code Linting Problems](./media/python_dev_env_vscode_2.png)
 
 In case the code has any problems, the IDE will mark them as errors.
 
-![Vs code Linting Problems](tutorials/media/python_dev_env_vscode_3.png)
+![Vs code Linting Problems](./media/python_dev_env_vscode_3.png)
 
 ## Exercises
 
