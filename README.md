@@ -32,3 +32,4 @@ Everything we do has a component of software engineering. We should be the best 
 Skill | Summary | Link |
 --- | --- | --- | 
 Git | Atlassian Git Tutorial | [link](https://www.atlassian.com/git/tutorials) |
+Python | DareData Python Development Environment Tutorial | [link](tutorials/python-develop-environment.md)| 
