@@ -1,3 +1,5 @@
+# Python Develop Environment
+
 ## Intro and Motivation
 
 Many data scientists believe that Jupyter notebooks are a good way to develop code. While they are good for some things (communication in particular), they are NOT to be used as a development environment. The reason for this is that, as Data Scientists and Data Engineers, we are full-time Software Engineers as well. Since code is our medium, we must respect it and do our best to write it in a systematic way that is optimized for humans to interpret it and maintain it. Jupyter notebooks are the exact opposite of an environment in which code is easy to write and maintain and this is the motivation for this tutorial.
